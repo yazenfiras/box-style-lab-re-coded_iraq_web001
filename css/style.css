@@ -61,6 +61,6 @@ section{box-shadow: 5px 10px 18px red;
 background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);
 }
 body{background-image: url('/images/white-wood.jpg');
-  background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);
+  background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);box-shadow: 5px 10px 18px red;
 }
 
